@@ -43,6 +43,6 @@ This page provides insights into the **top-performing and least-performing pizza
 - **Top & Bottom 5 Pizzas by Quantity Sold** 🍕
 - **Top & Bottom 5 Pizzas by Total Orders** 📦
 
-![Pizza Sales Dashboard](https://github.com/RajatSatpure/Pizza_Sales_Report-2015-/blob/main/Dashboard_Page_2.jpg) 
+![Pizza Sales Dashboard](https://github.com/RajatSatpure/Pizza_Sales_Report-2015-/blob/main/Dashboard_page_2.jpg) 
 
 This analysis helps identify **top-performing pizzas** to boost sales and **low-performing ones** that may need re-evaluation. 🚀
